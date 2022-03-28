@@ -13,7 +13,7 @@ Some Notes of [`av2558198`](https://www.bilibili.com/video/av2558198/).
 
 ## How's the result
 
-勉强能听:
+勉强能听(建议使用网易云音乐打开, 似乎是编码格式没有设置好, 非常抱歉, 这个问题下回会注意的):
 
 * [优化一次版本](STAGE_OF_SEKAI-opt.wav)
 * [优化二次版本](STAGE_OF_SEKAI.wav)
